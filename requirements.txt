@@ -1,0 +1,6 @@
+azureml-core
+pandas
+scikit-learn
+cloudpickle
+psutil
+mlflow
