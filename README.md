@@ -1,5 +1,14 @@
 # ML-API-Heroku-Docker-ACR-Mlflow
 
+This repository by Ewins518 showcases the deployment of a machine learning model using various technologies. It includes:
+
+- **Heroku:** Hosting the ML API.
+- **Docker:** Containerizing the application.
+- **Azure Container Registry (ACR):** Storing Docker images for later deployment
+- **MLflow:** Managing the ML lifecycle, including tracking experiments and deploying models.
+  
+The repository features Jupyter notebooks for training and deploying the model, configuration files, and scripts for scoring and inference.
+
 ![Screenshot](/screenshot/0.png)
 ![Screenshot](/screenshot/2.png)
 
